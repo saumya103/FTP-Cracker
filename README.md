@@ -1,6 +1,6 @@
 # FTP-Cracker
 The objective of this project is to develop an FTP brute-force tool that tests username-password combinations to gain unauthorized access to an FTP server.
-This project consists of two Python scripts:
+- This project consists of two Python scripts:
 1. advanced_brute.py – An advanced FTP brute-forcing script that supports
 username lists, password lists, password generation, multi-threading, and retry
 mechanisms.
